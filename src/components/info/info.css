@@ -1,0 +1,50 @@
+.cont-info {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 100vh;
+}
+.main {
+width: 40%;
+}
+.main img {
+width: 100%;
+}
+.desc div p {
+color: #fff;
+}
+.main h1, .star {
+text-align: center;
+}
+.desc div span {
+padding-right: 5px;
+}
+.desc {
+display: flex;
+flex-direction: column;
+gap: 10px;
+width: 40%;
+text-align: start;
+}
+.header-info {
+width: 100%;
+position: fixed;
+top: 0;
+}
+@media (max-width: 600px) {
+    .cont-info {
+        justify-content: space-around;
+        height: 100%;
+    }  
+    .header-info {
+        position: relative;
+    }
+    .main {
+        width: 95%;
+        }
+        .desc {
+            width: 95%;
+        }
+}

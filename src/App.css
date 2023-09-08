@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+div {
+  color: rgb(0, 240, 220);
+}
+input {
+  border-radius: 5px;
+  border: 0;
+}
+button {
+  cursor: pointer;
+  border: 0;
+  border-radius: 3px;
+}

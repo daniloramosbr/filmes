@@ -1,0 +1,22 @@
+.cont-s {
+display: flex;
+position: relative;
+}
+.cont-s form input {
+height: 2rem;
+padding-left: 5px;
+}
+.cont-s div button {
+width: 30px;
+height: 30px;
+
+}
+.button {
+position: absolute;
+right: 0;
+height: 95%;
+width: 30px;
+}
+.button:hover {
+background-color: rgb(0, 240, 220);
+}

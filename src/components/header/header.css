@@ -1,0 +1,36 @@
+.cont-header {
+  height: 3.6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 2rem 0px 2rem;
+  border-bottom: 1px solid rgb(129, 129, 129);
+}
+.cont-title {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.cont-header .ion ion-icon {
+  font-size: 35px;
+}
+.cont-header div {
+  display: flex;
+  align-items: center;
+}
+.cont-title h1 {
+color: rgb(0, 240, 220);
+text-decoration: none;
+}
+.cont-title {
+  text-decoration: none;
+}
+.cont-header .cont-title h1:hover {
+  color: rgb(53, 176, 166);
+}
+@media (max-width: 600px) {
+  .cont-header {
+    justify-content: space-around;
+    padding: 0;
+  }
+}
