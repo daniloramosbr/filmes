@@ -1,8 +1,20 @@
-# React + Vite
+# Galeria de Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto front-end de uma galeria com informações de filmes
 
-Currently, two official plugins are available:
+<img src="/public/filmes.png" alt="url">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+
+- informações info filmes
+- Responsividade
+- Visual Dinamico
+
+## Stack utilizada
+
+React, JavaScript, Axios, Api, CSS
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://daniloramosbr.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloramosbr)
